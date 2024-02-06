@@ -10,7 +10,7 @@ News API, involving all CRUD operations (Create, Read, Update and Delete). MySQL
 - Lombok - Java library for reducing boilerplate code and increasing productivity;
 - Spring Web - To create web applications, including RESTful, using Spring MVC and Apache TomCat as standard Web containers;
 - Spring Data JPA - Framework for accessing data with object-relational mapping (ORM);
-- MySQL - DBMSs;
+- MySQL - DBMS;
 - Apache Maven - Dependency and build management;
-- IntelliJ - IDE;
+- Eclipse - IDE;
 - Postman - Platform for testing API endpoints.
